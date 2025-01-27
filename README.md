@@ -2,6 +2,9 @@
 
 Welcome to the **Data Analysis Report on the Lok Sabha Election Results 2024** repository. This project provides a comprehensive analysis of the 2024 Lok Sabha election results, highlighting key insights into voting patterns, demographic influences, regional trends, and more.
 
+## Project Link
+You can view the detailed profiling report generated for this dataset from here: https://resilient-crepe-60a302.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
